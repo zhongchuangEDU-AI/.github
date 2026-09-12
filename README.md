@@ -4,7 +4,7 @@
 >
 > 约定月薪：**6000元**。截至 **【填写工资核实日期】**，本人实际收到工资：**0元**。
 
-![四格职场讽刺表情包：AI不肯充值、六千元干一个部门的活、管理混乱、钱留着买龟壳](assets/workplace-roast.png)
+![四格职场讽刺表情包：AI不肯充值、六千元干一个部门的活、管理混乱、钱留着买龟壳](https://github.com/zhongchuangEDU-AI/.github/blob/main/workplace-roast.png)
 
 ## AI的名字挂得响，AI的钱是一点舍不得花
 
@@ -34,7 +34,7 @@
 
 ## 部门准备做软件开发，你张口就说“不正规”？
 
-![虚构乌龟老板用否定符号打断软件方案，熊猫开发人员一脸无语](assets/software-roast.png)
+![虚构乌龟老板用否定符号打断软件方案，熊猫开发人员一脸无语](https://github.com/zhongchuangEDU-AI/.github/blob/main/software-roast.png)
 
 部门准备做软件开发，被你一句“不正规”打回来。老板，你这个傻逼，判断依据到底是什么？
 
@@ -48,7 +48,7 @@
 
 ## “正规”这把尺子，也拿去量量销售承诺
 
-![虚构乌龟老板对技术工作用大尺子，对自己用小尺子，讽刺双重标准](assets/double-standard-roast.png)
+![虚构乌龟老板对技术工作用大尺子，对自己用小尺子，讽刺双重标准](https://github.com/zhongchuangEDU-AI/.github/blob/main/double-standard-roast.png)
 
 软件开发要讲正规，公司销售承诺就更该拿同一把尺子量。我对销售承诺和实际交付是否一致，同样有质疑。
 
@@ -62,7 +62,7 @@
 
 ## 承诺说了什么，兑现到哪一步，都摆出来
 
-![原创销售承诺讽刺漫画：夸张的礼盒想象与需要逐项落实的交付清单](assets/sales-promises-roast.png)
+![原创销售承诺讽刺漫画：夸张的礼盒想象与需要逐项落实的交付清单](https://github.com/zhongchuangEDU-AI/.github/blob/main/sales-promises-roast.png)
 
 销售承诺涉及谁来交付、什么时间交付、有哪些条件，理应经得起核对。承诺时说得多漂亮，不能替代最后的实际结果。
 
@@ -74,7 +74,7 @@
 
 ## 学员提出的问题，也请拿出具体回应
 
-![原创学员诉求讽刺漫画：熊猫学员要求明确答复，虚构乌龟管理者被空白话框缠住](assets/learner-response-roast.png)
+![原创学员诉求讽刺漫画：熊猫学员要求明确答复，虚构乌龟管理者被空白话框缠住](https://github.com/zhongchuangEDU-AI/.github/blob/main/learner-response-roast.png)
 
 对学员提出的问题，公司应该把承诺、交付和解决方案说清楚。我要求的是经得起核对的回应。
 
@@ -98,7 +98,7 @@
 
 ##开个大会，给我的感觉像服从性测试
 
-![开个大会像服从性测试：虚构乌龟老板在夸张讲台上讲话，疲惫熊猫员工翻白眼](assets/meeting-roast.png)
+![开个大会像服从性测试：虚构乌龟老板在夸张讲台上讲话，疲惫熊猫员工翻白眼](https://github.com/zhongchuangEDU-AI/.github/blob/main/meeting-roast.png)
 
 老板开大会，给我的感觉越来越像一场服从性测试。就我的观感，那股劲儿很像传销式动员，听得我只想翻白眼。
 
@@ -114,7 +114,7 @@
 
 ## 人手不齐不肯招，指望员工学会分身术？
 
-![缺人不招还要省成本：虚构乌龟老板抱紧钱包，熊猫员工用夸张的多只手处理工作](assets/understaffing-roast.png)
+![缺人不招还要省成本：虚构乌龟老板抱紧钱包，熊猫员工用夸张的多只手处理工作](https://github.com/zhongchuangEDU-AI/.github/blob/main/understaffing-roast.png)
 
 人手不齐，招人又舍不得花钱，在我看来，这副算盘打得真他妈不要脸。
 
